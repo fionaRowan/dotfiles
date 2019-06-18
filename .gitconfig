@@ -1,0 +1,21 @@
+#~/.gitconfig
+[user]
+	name = Fiona Rowan
+	email = fiona.rowan@mongodb.com
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[alias]
+	co = checkout
+	cm = commit
+	st = status
+	br = branch
+	cob = checkout -b
+	g = grep
+	gi = grep -i
+	ls = ls-files
+[grep]
+	linenumber = true
